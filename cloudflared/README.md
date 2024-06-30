@@ -1,4 +1,4 @@
-# Home Assistant Add-on: Cloudflared
+# Home Assistant Add-on: Cloudflared.
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
