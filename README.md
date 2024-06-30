@@ -1,4 +1,4 @@
-# Home Assistant Add-on Repository for Cloudflared
+# Home Assistant Add-on Repository for Cloudflared.
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
